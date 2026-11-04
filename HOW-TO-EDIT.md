@@ -18,7 +18,7 @@ To check that it worked, open the **Actions** tab. A green check means the site 
 ## What each file is
 
 - `home.md`: your home page (name, headline, LinkedIn link, bio and resume).
-- `posts/`: your 3 blog posts, one file each.
+- `posts/`: your 4 blog posts, one file each.
 - `images/`: your headshot and any pictures for your posts.
 
 Leave `build.py`, `style.css` and the `.github` folder alone. They run the site.
@@ -86,9 +86,9 @@ Each post ends with a `## Sources` list. The links there are starting ideas. Rep
 - [Name of the article or page](https://link-to-it)
 ```
 
-### Adding a 4th post later
+### Adding another post later
 
-Open `posts/`, click **Add file**, then **Create new file**. Name it something like `4-my-new-post.md`, copy the top part (`---` through `---`) from another post, and write.
+Open `posts/`, click **Add file**, then **Create new file**. Name it something like `5-my-new-post.md`, copy the top part (`---` through `---`) from another post, and write.
 
 ## Changing your headshot
 
