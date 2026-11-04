@@ -1,21 +1,27 @@
 ---
-title: How AI is changing the audit, and what still needs people
+title: How AI is changing finance and consulting work, and what still needs people
 date: 2026-11-03
-summary: A look at what artificial intelligence can already do in an audit, where human judgment still matters, and what that means for new hires.
+summary: What AI tools can already do for finance and consulting teams, what I've learned building AI workflows, and where human judgment still matters.
 ---
 
 <!--
-SUGGESTED TOPIC: AI tools in auditing and accounting.
-Explain one or two real examples, then argue what parts of the work still need people.
+SUGGESTED TOPIC: AI tools in finance and consulting work.
+Use your own experience building AI workflows (for example, turning meeting notes into a tracker),
+but keep client names and anything confidential about KPMG out of the post.
+Then argue what parts of the work still need people.
 Replace each WRITE HERE with a few short paragraphs (2 to 4 sentences each).
 -->
 
-## What AI can already do in an audit
+## What AI can already do for finance teams
 
 WRITE HERE
 
 ![WRITE HERE: describe the picture in a few words](images/placeholder.svg)
 *WRITE HERE: one sentence about what the picture shows. Source: [WRITE HERE: name of the website the image came from](https://example.com)*
+
+## What I learned building an AI workflow
+
+WRITE HERE
 
 ## Where human judgment still matters
 
