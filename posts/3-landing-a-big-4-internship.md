@@ -1,50 +1,46 @@
 ---
 title: How I landed a Big 4 internship (and what I'd do again)
 date: 2026-11-02
-summary: What I learned going through Big 4 recruiting, from networking early to turning my KPMG internship into a full-time offer.
+summary: What I learned going through Big 4 recruiting as a freshman, from finding mentors early to building a real relationship with a recruiter.
 ---
 
 <!--
-DRAFT: this is an example to build from. Rewrite it in your own words.
-Replace everything highlighted in yellow ([ADD: ...]) with your real experience, brackets included.
-Keep paragraphs to 25-35 words and the whole post between 200 and 400 words.
-Keep client names and anything confidential about KPMG out of the post.
-For the picture: upload your own photo to images/ and change placeholder.svg to its file name.
+Picture: upload your KPMG offer photo to images/ (for example kpmg-offer.jpg)
+and change placeholder.svg below to that file name.
 -->
 
 ## Start earlier than you think
 
-Big 4 recruiting moves fast. Deloitte, PwC, EY and KPMG often fill summer internships a year ahead, and many students first meet the firms through sophomore programs and info sessions.
+Big 4 recruiting is probably one of the toughest kinds of recruiting you can do in college. Deloitte, PwC, EY and KPMG fill their internships a year to a year and a half early.
 
-According to [ADD: name of a specific article you read about Big 4 recruiting](https://example.com), [ADD: one point from that article and what you think about it].
+Many students don't even know this happens. I found out as a freshman, before I even knew what I wanted to do, only because a few mentors told me.
 
-I learned this [ADD: when, for example at my first Smeal career fair as a sophomore]. If you wait until junior spring to start networking, many of the spots are already gone.
+Thanks to them, I was applying for an internship a year and a half away. If I had waited, I wouldn't be in the position I'm in today.
+
+I'm not the only one who noticed. Boston College's article ["Ready, Fire, Aim!"](https://www.bc.edu/content/bc-web/schools/carroll-school/news/2024/Ready-Fire-Aim.html) explains how accounting recruiting moved from junior spring to sophomore year, with some sophomores landing internships more than a year ahead.
+
+One assistant dean in the article calls this shift "mostly bad," since college is supposed to be a time to explore. I see her point, but knowing the timeline early is exactly what put me ahead.
 
 ## Treat networking like a class
 
-Recruiters remember students who show up more than once. Go to info sessions, office visits and club events, then send a short, specific thank-you note within a day.
+Your resume matters, but recruiters really remember students who care. Those students show up to info sessions, office visits, club events and career fairs, and they send thank-you notes after meeting a recruiter.
 
-For me, [ADD: the event or conversation that made the difference]. One real conversation did more for my application than another bullet on my resume.
+For me, it was a club event. I kept seeing the same recruiter and kept chatting with her. She told me about upcoming applications and offered to help get my name to the interviewers.
 
-![Me at a recruiting event](images/placeholder.svg)
-*Me at [ADD: event name], where I first met [ADD: firm] recruiters. Photo: my own.*
+That one relationship did more for my application than any bullet point on my resume.
 
 ## Prepare for behavioral interviews
 
-Big 4 interviews focus on behavioral questions: a time you led a team, handled a conflict or made a mistake. Firms want to see how you think and how you work with people.
+Big 4 interviews usually focus on behavioral questions: a time you led a team, handled a conflict or made a mistake. No firm expects a sophomore to be an expert in complex accounting.
 
-I used the STAR method (situation, task, action, result) and kept five go-to stories, like [ADD: an example from a class project, job or club]. Most questions fit one of them.
+Instead, they want to see that you're human, you have good stories and you'd fit in with the team. I prepared with the STAR method: situation, task, action, result.
 
-## Turn the internship into an offer
+I kept five go-to stories from class projects and clubs, and most questions fit one of them. Most importantly, I tried to be myself and balance professionalism, fun and my personality. I think that's what turned my interview into an offer.
 
-The internship is really a ten-week interview. Interns who ask good questions, take feedback well and stay organized are the ones who get return offers.
-
-[ADD: one habit that helped you during your KPMG internship, kept general with no client or internal details.] That effort paid off with a full-time return offer.
+![Me after receiving my KPMG offer](images/placeholder.svg)
+*Me after getting my KPMG offer, after months of hard work. Photo: my own.*
 
 ## Sources
 
-<!-- Swap each link for the exact page you quote or use. -->
-
-- [ADD: name of the specific article you mention above](https://example.com)
-- [Accounting Today: news on the accounting profession](https://www.accountingtoday.com/)
-- [U.S. Bureau of Labor Statistics: accountants and auditors job outlook](https://www.bls.gov/ooh/business-and-financial/accountants-and-auditors.htm)
+- [Boston College Carroll School of Management: "Ready, Fire, Aim!" (2024)](https://www.bc.edu/content/bc-web/schools/carroll-school/news/2024/Ready-Fire-Aim.html)
+- [Going Concern: "What's the Deal with These Public Accounting Sophomore Leadership Programs?"](https://www.goingconcern.com/whats-deal-these-public-accounting-sophomore-leadership-programs/)

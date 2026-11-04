@@ -1,50 +1,46 @@
 ---
 title: AI won't replace accountants, but it's changing what we do
 date: 2026-11-03
-summary: How AI is taking over the busywork in accounting, what I learned building an AI workflow, and why human judgment still matters.
+summary: Why the biggest firms are betting on AI, what I learned building AI workflows during my internship, and why accountants still need to think for themselves.
 ---
 
 <!--
-DRAFT: this is an example to build from. Rewrite it in your own words.
-Replace everything highlighted in yellow ([ADD: ...]) with your real details, brackets included.
-Keep paragraphs to 25-35 words and the whole post between 200 and 400 words.
-Keep client names and anything confidential about KPMG out of the post.
-For the picture: upload an image to images/, change placeholder.svg to its file name,
-and link the caption to where the image came from (or say "Screenshot: my own").
+Picture: a screenshot of an AI tool you've used works well. Make sure it shows no client
+or confidential KPMG information. Upload it to images/ and change placeholder.svg to its file name.
 -->
 
-## AI is already doing the busywork
+## AI is taking over the busywork
 
-A lot of accounting work is repetitive: matching invoices, tying out numbers and pulling samples to test. AI tools can now handle much of it in seconds, and check every transaction instead of a sample.
+Let's be real: accounting isn't known for glamorous work. A lot of it is repetitive and, honestly, a little boring, whether it's matching invoices or tying out numbers.
 
-The biggest firms are betting on it. In 2023, PwC announced plans to invest $1 billion in generative AI, as [ADD: name of the article you read](https://example.com) reported. [ADD: your reaction to that article.]
+AI can now do much of that work in seconds, and the biggest firms are betting on it. This May, KPMG announced an alliance with Anthropic, the company behind Claude, as [Accounting Today reported](https://www.accountingtoday.com/news/kpmg-enters-alliance-with-anthropic).
 
-## What I learned building an AI workflow
+The deal builds Claude into KPMG's Digital Gateway platform and gives the firm's roughly 276,000 people access. I was surprised but excited, since Claude is a tool many students, including me, already use.
 
-I've seen this shift firsthand. [ADD: a workflow you built, for example turning meeting notes into a task tracker, kept general with no client or KPMG-internal details.]
+## What I learned building AI workflows
 
-The biggest lesson: the tool was only as good as the instructions and data I gave it. [ADD: one thing that went wrong or surprised you, and how you fixed it.]
+I saw this firsthand during my internship. I built several AI workflows, like one that turned meeting notes into task trackers so our team and the client stayed on track.
 
-![An AI tool summarizing accounting data](images/placeholder.svg)
-*[ADD: one sentence about what the picture shows.] Source: [ADD: name of the website the image came from](https://example.com)*
+Project management is a huge part of working with clients. With those workflows handling the routine tasks, my team could spend more time on the actual accounting work.
 
-## Where accountants still matter
+The biggest lesson: a tool is only as good as the instructions and data you give it. It took me days to get the exact output my team wanted.
 
-AI can flag an unusual transaction, but it can't decide whether it's fraud, an error or a one-time event. That call takes judgment, context and professional skepticism.
+But once I got it right, I never had to prompt it again. That workflow lasted the rest of my internship.
 
-AI also makes mistakes with confidence. Regulators like the [PCAOB](https://pcaobus.org/) are watching how firms use it, because the auditor, not the software, is responsible for the audit opinion.
+![An AI tool turning meeting notes into a task list](images/placeholder.svg)
+*An example of an AI tool turning meeting notes into a task list. Screenshot: my own.*
+
+## Where people still matter
+
+AI can flag an unusual transaction, but it can't decide whether it's fraud, an error or a one-time event. That call still takes judgment, context and professional skepticism.
 
 ## What this means for accounting students
 
-Entry-level work is shifting from doing the busywork to reviewing what the tools produce. New hires will need to spot errors, ask good questions and explain results earlier in their careers.
+Entry-level work is shifting from doing busywork to reviewing what the tools produce. New hires will need to spot errors, ask good questions and, most importantly, think critically.
 
-My advice: learn the accounting first, then learn the tools. [ADD: one class, skill or tool you'd recommend, such as something from your business analytics courses.]
+AI can do a lot, but it can't replace the thinking behind a workflow or a process. My advice: learn the accounting first so you have the fundamentals, then learn the tools.
 
 ## Sources
 
-<!-- Swap each link for the exact page you quote or use. -->
-
-- [ADD: name of the article about AI investment you mention above](https://example.com)
-- [PCAOB: the board that sets audit standards for public companies](https://pcaobus.org/)
-- [Journal of Accountancy: articles on technology and AI](https://www.journalofaccountancy.com/)
-- [Center for Audit Quality: resources on technology in the audit](https://www.thecaq.org/)
+- [Accounting Today: "KPMG enters alliance with Anthropic" (May 2026)](https://www.accountingtoday.com/news/kpmg-enters-alliance-with-anthropic)
+- [CPA Practice Advisor: "KPMG Partners with Anthropic for Digital Gateway Powered by Claude"](https://www.cpapracticeadvisor.com/2026/05/20/kpmg-partners-with-anthropic-for-digital-gateway-powered-by-claude/183743/)
