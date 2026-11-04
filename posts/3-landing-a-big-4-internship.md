@@ -4,11 +4,6 @@ date: 2026-11-02
 summary: What I learned going through Big 4 recruiting as a freshman, from finding mentors early to building a real relationship with a recruiter.
 ---
 
-<!--
-Picture: upload your KPMG offer photo to images/ (for example kpmg-offer.jpg)
-and change placeholder.svg below to that file name.
--->
-
 ## Start earlier than you think
 
 Big 4 recruiting is probably one of the toughest kinds of recruiting you can do in college. Deloitte, PwC, EY and KPMG fill their internships a year to a year and a half early.
@@ -37,7 +32,7 @@ Instead, they want to see that you're human, you have good stories and you'd fit
 
 I kept five go-to stories from class projects and clubs, and most questions fit one of them. Most importantly, I tried to be myself and balance professionalism, fun and my personality. I think that's what turned my interview into an offer.
 
-![Me after receiving my KPMG offer](images/placeholder.svg)
+![Holding KPMG signs in front of a KPMG Lakehouse backdrop](images/kpmg-lakehouse.jpg)
 *Me after getting my KPMG offer, after months of hard work. Photo: my own.*
 
 ## Sources

@@ -89,7 +89,7 @@ mark.ph,a.ph{background:var(--c-amber-bg);color:var(--c-amber-tx);border-radius:
 .article li{margin:5px 0}
 .article blockquote{margin:18px 0;padding:4px 0 4px 16px;border-left:3px solid var(--p-line-2);color:var(--p-mut)}
 figure{margin:22px 0}
-figure img{display:block;width:100%;height:auto;border-radius:12px;border:1px solid var(--p-line);background:var(--p-panel-2)}
+figure img{display:block;width:auto;max-width:100%;height:auto;margin:0 auto;border-radius:12px;border:1px solid var(--p-line);background:var(--p-panel-2)}
 figcaption{margin-top:8px;color:var(--p-mut);font-size:13.5px;line-height:1.5}
 
 /* phones */

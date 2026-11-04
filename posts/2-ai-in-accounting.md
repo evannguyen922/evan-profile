@@ -4,11 +4,6 @@ date: 2026-11-03
 summary: Why the biggest firms are betting on AI, what I learned building AI workflows during my internship, and why accountants still need to think for themselves.
 ---
 
-<!--
-Picture: a screenshot of an AI tool you've used works well. Make sure it shows no client
-or confidential KPMG information. Upload it to images/ and change placeholder.svg to its file name.
--->
-
 ## AI is taking over the busywork
 
 Let's be real: accounting isn't known for glamorous work. A lot of it is repetitive and, honestly, a little boring, whether it's matching invoices or tying out numbers.
@@ -27,8 +22,8 @@ The biggest lesson: a tool is only as good as the instructions and data you give
 
 But once I got it right, I never had to prompt it again. That workflow lasted the rest of my internship.
 
-![An AI tool turning meeting notes into a task list](images/placeholder.svg)
-*An example of an AI tool turning meeting notes into a task list. Screenshot: my own.*
+![Diagram of a workflow that turns a meeting transcript into a summary, tagged action items and a task list](images/transcript-pipeline.png)
+*How a transcript-to-action-item workflow works, similar to the ones I built during my internship. Source: [Cowork Strategy](https://coworkstrategy.com/)*
 
 ## Where people still matter
 

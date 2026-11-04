@@ -5,9 +5,6 @@ summary: Why the CPA still matters, how the 150-hour rule is changing, and why I
 ---
 
 <!--
-Picture: you can use the Core + Discipline diagram from evolutionofcpa.org, or your own photo
-(for example your study materials). Upload it to images/ and change placeholder.svg to its file name.
-If you use your own photo, change the caption's source to "Photo: my own."
 If KPMG has announced the $10,000 CPA bonus publicly, you can put the exact amount back in.
 -->
 
@@ -25,7 +22,7 @@ Now a growing number of states, including Pennsylvania, also accept 120 credits,
 
 This matters for students like me. I want to start working right after graduation, and I'm only planning on a four-year degree because a master's is expensive. Check your state's current rules through [NASBA](https://nasba.org/) before you plan your schedule.
 
-![Diagram of the CPA exam's Core + Discipline model](images/placeholder.svg)
+![Chart of the CPA exam's three core sections (FAR, AUD, REG) and three discipline options (BAR, ISC, TCP)](images/cpa-exam-sections.png)
 *The CPA exam now has three core sections plus one discipline of your choice. Source: [CPA Evolution](https://www.evolutionofcpa.org/)*
 
 ## Why I'm doing it anyway
