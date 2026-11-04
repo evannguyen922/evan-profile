@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#f1f1f3"/>
+  <rect x="24" y="24" width="1152" height="582" rx="20" fill="none" stroke="#d9d9df" stroke-width="3" stroke-dasharray="14 12"/>
+  <g fill="none" stroke="#9b9fa8" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="530" y="200" width="140" height="110" rx="14"/>
+    <circle cx="566" cy="236" r="12"/>
+    <path d="M534 298l44-40 30 26 22-18 38 32"/>
+  </g>
+  <text x="600" y="400" text-anchor="middle" font-family="-apple-system,Segoe UI,Arial,sans-serif" font-size="52" font-weight="600" fill="#62666f">Your picture goes here</text>
+  </svg>
