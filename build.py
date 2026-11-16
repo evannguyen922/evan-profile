@@ -277,7 +277,9 @@ def build():
     latest = ""
     if posts:
         links = "".join(
-            f'<li><a href="posts/{p["slug"]}.html">{inline(p["title"])}</a><time datetime="{esc(p["iso"])}">{esc(p["date"])}</time></li>'
+            f'<li><div><a href="posts/{p["slug"]}.html">{inline(p["title"])}</a>'
+            + (f'<p>{inline(p["summary"])}</p>' if p["summary"] else "")
+            + f'</div><time datetime="{esc(p["iso"])}">{esc(p["date"])}</time></li>'
             for p in posts[:3]
         )
         latest = f"""<h2 class="sect">From the blog</h2>
@@ -303,6 +305,7 @@ def build():
         body = f"""<article class="card article">
   <a class="back" href="../blog.html"><span aria-hidden="true">←</span> All posts</a>
   <h1>{inline(p['title'], '../')}</h1>
+  {f'<p class="dek">{inline(p["summary"], "../")}</p>' if p['summary'] else ''}
   <p class="meta">By {esc(name)} · <time datetime="{esc(p['iso'])}">{esc(p['date'])}</time></p>
   {markdown(p['text'], '../')}
 </article>"""
